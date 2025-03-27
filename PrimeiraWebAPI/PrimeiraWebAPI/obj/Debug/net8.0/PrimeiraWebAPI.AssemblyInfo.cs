@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("PrimeiraWebAPI")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+c765058600f12446f174fa452693951055c78bb4")]
 [assembly: System.Reflection.AssemblyProductAttribute("PrimeiraWebAPI")]
 [assembly: System.Reflection.AssemblyTitleAttribute("PrimeiraWebAPI")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

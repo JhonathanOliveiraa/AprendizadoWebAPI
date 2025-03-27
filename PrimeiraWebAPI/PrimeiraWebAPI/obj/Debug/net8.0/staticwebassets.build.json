@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "PQ7BHieDJK9yDXApk5bSDHvOTUd+dWshuCIQq9jkelQ=",
+  "Source": "PrimeiraWebAPI",
+  "BasePath": "_content/PrimeiraWebAPI",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}

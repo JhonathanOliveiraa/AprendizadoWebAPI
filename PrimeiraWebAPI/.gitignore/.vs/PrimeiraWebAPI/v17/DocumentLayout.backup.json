@@ -1,0 +1,70 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\jhonathan.almeida\\Documents\\Estudos\\CriacaoWebAPI\\PrimeiraWebAPI\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{47D80448-8B32-4835-B2AF-D1121BCAF154}|PrimeiraWebAPI\\PrimeiraWebAPI.csproj|c:\\users\\jhonathan.almeida\\documents\\estudos\\criacaowebapi\\primeirawebapi\\primeirawebapi\\controllers\\pessoacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{47D80448-8B32-4835-B2AF-D1121BCAF154}|PrimeiraWebAPI\\PrimeiraWebAPI.csproj|solutionrelative:primeirawebapi\\controllers\\pessoacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{47D80448-8B32-4835-B2AF-D1121BCAF154}|PrimeiraWebAPI\\PrimeiraWebAPI.csproj|c:\\users\\jhonathan.almeida\\documents\\estudos\\criacaowebapi\\primeirawebapi\\primeirawebapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{47D80448-8B32-4835-B2AF-D1121BCAF154}|PrimeiraWebAPI\\PrimeiraWebAPI.csproj|solutionrelative:primeirawebapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{47D80448-8B32-4835-B2AF-D1121BCAF154}|PrimeiraWebAPI\\PrimeiraWebAPI.csproj|c:\\users\\jhonathan.almeida\\documents\\estudos\\criacaowebapi\\primeirawebapi\\primeirawebapi\\primeirawebapi.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{47D80448-8B32-4835-B2AF-D1121BCAF154}|PrimeiraWebAPI\\PrimeiraWebAPI.csproj|solutionrelative:primeirawebapi\\primeirawebapi.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "PessoaController.cs",
+              "DocumentMoniker": "C:\\Users\\jhonathan.almeida\\Documents\\Estudos\\CriacaoWebAPI\\PrimeiraWebAPI\\PrimeiraWebAPI\\Controllers\\PessoaController.cs",
+              "RelativeDocumentMoniker": "PrimeiraWebAPI\\Controllers\\PessoaController.cs",
+              "ToolTip": "C:\\Users\\jhonathan.almeida\\Documents\\Estudos\\CriacaoWebAPI\\PrimeiraWebAPI\\PrimeiraWebAPI\\Controllers\\PessoaController.cs",
+              "RelativeToolTip": "PrimeiraWebAPI\\Controllers\\PessoaController.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAAwBUAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-27T17:17:14.758Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\jhonathan.almeida\\Documents\\Estudos\\CriacaoWebAPI\\PrimeiraWebAPI\\PrimeiraWebAPI\\Program.cs",
+              "RelativeDocumentMoniker": "PrimeiraWebAPI\\Program.cs",
+              "ToolTip": "C:\\Users\\jhonathan.almeida\\Documents\\Estudos\\CriacaoWebAPI\\PrimeiraWebAPI\\PrimeiraWebAPI\\Program.cs",
+              "RelativeToolTip": "PrimeiraWebAPI\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-27T17:17:11.898Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "PrimeiraWebAPI",
+              "DocumentMoniker": "C:\\Users\\jhonathan.almeida\\Documents\\Estudos\\CriacaoWebAPI\\PrimeiraWebAPI\\PrimeiraWebAPI\\PrimeiraWebAPI.csproj",
+              "RelativeDocumentMoniker": "PrimeiraWebAPI\\PrimeiraWebAPI.csproj",
+              "ToolTip": "C:\\Users\\jhonathan.almeida\\Documents\\Estudos\\CriacaoWebAPI\\PrimeiraWebAPI\\PrimeiraWebAPI\\PrimeiraWebAPI.csproj",
+              "RelativeToolTip": "PrimeiraWebAPI\\PrimeiraWebAPI.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-03-27T17:17:09.258Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
